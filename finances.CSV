@@ -1,0 +1,5 @@
+date,category,description,amount,type
+21-12-04,Food,Sample,-20,expense
+24-12-04,Food,Sample,-30,expense
+23-12-04,Food,Sample,-40,expense
+23-12-04,Paid,Sample,+50,income
